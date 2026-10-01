@@ -1,0 +1,3858 @@
+{
+  "schema_version": 1,
+  "source_archive": "user-provided gif.zip",
+  "source_sha256": "042ae74c95b77caf30ad50725671ff79b0eb13e7a95a4bdaedc4a2e72a267069",
+  "note": "Names are search hints, not verified identities. No asset has yet been approved against a card reference.",
+  "assets": [
+    {
+      "id": "icon-001",
+      "name": "3",
+      "path": "assets/icons/gif/3.png",
+      "sha256": "6608803656f95667e3872c6694405e59320e616d702e8615bbee875ad7463194",
+      "width": 61,
+      "height": 56,
+      "alpha_bounds": [
+        0,
+        0,
+        61,
+        56
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-002",
+      "name": "Black & White 11 copy",
+      "path": "assets/icons/gif/Black & White 11 copy.png",
+      "sha256": "cf1956c8df3dab9e871975d6824233025cfbab583084a422c906748096ac480b",
+      "width": 18,
+      "height": 33,
+      "alpha_bounds": [
+        0,
+        0,
+        18,
+        33
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-003",
+      "name": "ChatGPT Image Sep 16, 2026, 11_19_48 AM",
+      "path": "assets/icons/gif/ChatGPT Image Sep 16, 2026, 11_19_48 AM.png",
+      "sha256": "48a83eddbe522857c1d5473227447aae3d5a1515cab9c335ae6f07efacc004b1",
+      "width": 1736,
+      "height": 906,
+      "alpha_bounds": [
+        32,
+        133,
+        1705,
+        880
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-004",
+      "name": "D",
+      "path": "assets/icons/gif/D.png",
+      "sha256": "53f1c726dd71657f5391cfecef3e508d779b02cc867d76e2f436a0ee185477e4",
+      "width": 53,
+      "height": 70,
+      "alpha_bounds": [
+        8,
+        19,
+        37,
+        58
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-005",
+      "name": "Dragon Frontiers",
+      "path": "assets/icons/gif/Dragon Frontiers.png",
+      "sha256": "78c0dcc0c4a5e9da26a39c0290bf21078bd9a7f2ccfadf502ff63b348e7a720d",
+      "width": 3000,
+      "height": 1565,
+      "alpha_bounds": [
+        65,
+        370,
+        2935,
+        1122
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-006",
+      "name": "final eys",
+      "path": "assets/icons/gif/final eys.png",
+      "sha256": "18fed51915080e65f5d228d48192a919146d6530ec685f955cff4545f3920a3d",
+      "width": 52,
+      "height": 50,
+      "alpha_bounds": [
+        0,
+        0,
+        52,
+        50
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-007",
+      "name": "golden-star",
+      "path": "assets/icons/gif/golden-star.png",
+      "sha256": "7d6b8176cdc570c7719c75bced3b63ac7e6d3db56ad892ef716f48da20462163",
+      "width": 45,
+      "height": 47,
+      "alpha_bounds": [
+        6,
+        8,
+        37,
+        37
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-008",
+      "name": "151",
+      "path": "assets/icons/gif/icon/151.png",
+      "sha256": "a77fb70aa698b5d3d5b55898c1e02607d5c65bd1f5cc49d37c6845c9773c7a4e",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-009",
+      "name": "Ancient Origins",
+      "path": "assets/icons/gif/icon/Ancient Origins.png",
+      "sha256": "9a7114984c235ec7a0c32cbdf000eabb722d73a77012563fe3189d34a4d48830",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-010",
+      "name": "Aquapolis",
+      "path": "assets/icons/gif/icon/Aquapolis.png",
+      "sha256": "9873e63104035dc290a016dd0021ceb36bb20d65a5f60a030e85c4654868f8e0",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        420,
+        118,
+        2580,
+        2911
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-011",
+      "name": "Arceus",
+      "path": "assets/icons/gif/icon/Arceus.png",
+      "sha256": "a1041cdec0b46977407483920f40c3ad66803234ffb3c824b7df4f26e60a8995",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-012",
+      "name": "Ascended Heroes",
+      "path": "assets/icons/gif/icon/Ascended Heroes.png",
+      "sha256": "395e9bf98d4714a69982430ad8f9c0f5cb1080ff493bf5968fb35a332c06a8e1",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-013",
+      "name": "Astral Radiance",
+      "path": "assets/icons/gif/icon/Astral Radiance.png",
+      "sha256": "308e956461a9c48add02bc731e593900ace5a14d0bd842561147c0009b66dea0",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        120,
+        2940,
+        2887
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-014",
+      "name": "Base Set 2",
+      "path": "assets/icons/gif/icon/Base Set 2.png",
+      "sha256": "3b4dba109d0d57b6aaa5359dff203143b834281db077550caa60d04cd4306c32",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        280,
+        60,
+        2917,
+        2926
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-015",
+      "name": "Battle Styles",
+      "path": "assets/icons/gif/icon/Battle Styles.png",
+      "sha256": "66449ab7fc1cf610d3e0d4322c22c3b76dec407868467034cdb973db7d4e53d4",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        150,
+        60,
+        2865,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-016",
+      "name": "Best of Game",
+      "path": "assets/icons/gif/icon/Best of Game.png",
+      "sha256": "6283808654781b9c1b9d3100a8f61708911ae63ccdf37a5a6e2f6daa3894c05f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        283,
+        158,
+        2799,
+        2763
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-017",
+      "name": "Black & White",
+      "path": "assets/icons/gif/icon/Black & White.png",
+      "sha256": "ce55432e7848ea39921ee611fa1b212e0d2a0c2edf645f939c0ba2174e6bc6d3",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        135,
+        135,
+        2865,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-018",
+      "name": "Black Bolt",
+      "path": "assets/icons/gif/icon/Black Bolt.png",
+      "sha256": "88d819632b2e5eadb851cf9ddb3e170793f21b1084e315b5acb1b813ec13c521",
+      "width": 300,
+      "height": 300,
+      "alpha_bounds": [
+        4,
+        75,
+        296,
+        227
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-019",
+      "name": "Boundaries Crossed",
+      "path": "assets/icons/gif/icon/Boundaries Crossed.png",
+      "sha256": "8afe5d8f708ce85f98f858630a023453b0a59de843f5b23167e1cb111f28ae0c",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        232,
+        2930,
+        2756
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-020",
+      "name": "Box Topper",
+      "path": "assets/icons/gif/icon/Box Topper.png",
+      "sha256": "bc9ab6fe0a8d1f0ec95aa9ef9179e40bd963c6f9938a07278a22ec632c64dc24",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        60,
+        2940,
+        2955
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-021",
+      "name": "BREAKpoint",
+      "path": "assets/icons/gif/icon/BREAKpoint.png",
+      "sha256": "499bff11995086f214254f48eb92a1c225ce2128eb2fc168faad02d74e583eca",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-022",
+      "name": "BREAKthrough",
+      "path": "assets/icons/gif/icon/BREAKthrough.png",
+      "sha256": "6d1f11807e4a6082108281bd88aecb20007224bfd090531e560d8c2c0dc6f92b",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        120,
+        2940,
+        2880
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-023",
+      "name": "Brilliant Stars",
+      "path": "assets/icons/gif/icon/Brilliant Stars.png",
+      "sha256": "42a00e33596a122b28e6e6263ab0cbec9e490ed6bc34a895935d0d4be443026d",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        105,
+        60,
+        2895,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-024",
+      "name": "Burning Shadows",
+      "path": "assets/icons/gif/icon/Burning Shadows.png",
+      "sha256": "28cef691f00381212b48f1d36c2f403ef178978ba760f11daf094f3d6f4103c5",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        222,
+        2939,
+        2770
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-025",
+      "name": "Call of Legends",
+      "path": "assets/icons/gif/icon/Call of Legends.png",
+      "sha256": "7088fe158af5afcd58e57d421aff2aa8d9e951456928736864987106cabe43e7",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        725,
+        60,
+        2265,
+        2941
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-026",
+      "name": "Celebrations",
+      "path": "assets/icons/gif/icon/Celebrations.png",
+      "sha256": "9234b68f6528dedcda1bdbe13891c390f53bb3d3dd4f33e63ba7d436f3e907e4",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        271,
+        2940,
+        2729
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-027",
+      "name": "Celestial Storm",
+      "path": "assets/icons/gif/icon/Celestial Storm.png",
+      "sha256": "71f844b193acb299c0eb3c5bf329b2aca319e1809191456e5c64639edb80aa79",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-028",
+      "name": "Champion_s Path",
+      "path": "assets/icons/gif/icon/Champion_s Path.png",
+      "sha256": "3d61193c1d0ed1c40fd27ea2a6d3deef94006d0ef7c4a615dce80a318e8d73c4",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        132,
+        2940,
+        2868
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-029",
+      "name": "Chilling Reign",
+      "path": "assets/icons/gif/icon/Chilling Reign.png",
+      "sha256": "4ed9aeb2c64399abbb5d8051a3cb367d7bac9ccd7ef0fda3ee6f20b2cfdc9241",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        58,
+        250,
+        2942,
+        2736
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-030",
+      "name": "Cosmic Eclipse",
+      "path": "assets/icons/gif/icon/Cosmic Eclipse.png",
+      "sha256": "9c42c550517e73a10c96e65cffa70586d3cb7c6ced055d5849af43bbc8ac6f7e",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        232,
+        60,
+        2768,
+        2937
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-031",
+      "name": "Crimson Invasion",
+      "path": "assets/icons/gif/icon/Crimson Invasion.png",
+      "sha256": "b4c08273cdfc5a0f9fd717956c6e1586b633d20db3862303665dd7a9d458cc75",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        265,
+        2941,
+        2735
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-032",
+      "name": "Crown Zenith",
+      "path": "assets/icons/gif/icon/Crown Zenith.png",
+      "sha256": "7277e771b87a45d862acbfb607e4d3e741b6c0702f7cb187ebd88522d32124b9",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        222,
+        2940,
+        2778
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-033",
+      "name": "Crystal Guardians",
+      "path": "assets/icons/gif/icon/Crystal Guardians.png",
+      "sha256": "1880dc506d68263f1bf791ce8239560e732f59e20518f94db10c6707c352d1c8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        570,
+        60,
+        2429,
+        2928
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-034",
+      "name": "Dark Explorers",
+      "path": "assets/icons/gif/icon/Dark Explorers.png",
+      "sha256": "19f2874fcc14a64deb8c5e70651bfae56d198a87020c862ed0475b5ec89d0754",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        232,
+        60,
+        2768,
+        2937
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-035",
+      "name": "Darkness Ablaze",
+      "path": "assets/icons/gif/icon/Darkness Ablaze.png",
+      "sha256": "627b9f5a38a8fed4891b911f34d863661800c4013433005f4c2997bc7587e50b",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        75,
+        128,
+        2926,
+        2872
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-036",
+      "name": "Delta Species",
+      "path": "assets/icons/gif/icon/Delta Species.png",
+      "sha256": "e3505eb92def87924f0d26c1ced1be3f817a64e284070d5380f9e6233e4dd16d",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        190,
+        2941,
+        2810
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-037",
+      "name": "Deoxys",
+      "path": "assets/icons/gif/icon/Deoxys.png",
+      "sha256": "bd1fd2126caf0944bc4a63c2609112ad614d9bd32f2766583b8fe28857bea02e",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        59,
+        2941,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-038",
+      "name": "Destined Rivals",
+      "path": "assets/icons/gif/icon/Destined Rivals.png",
+      "sha256": "425eb1bf046725f7bf8339c3172b9a891938dcfde6f410a9bf688e69b96bf974",
+      "width": 300,
+      "height": 300,
+      "alpha_bounds": [
+        4,
+        75,
+        296,
+        227
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-039",
+      "name": "Detective Pikachu",
+      "path": "assets/icons/gif/icon/Detective Pikachu.png",
+      "sha256": "b5dd939e0f2219737e9cfae30ff980288c609a1f3b9f70777f1eabf7f2e4420f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        63,
+        2940,
+        2937
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-040",
+      "name": "Diamond and Pearl",
+      "path": "assets/icons/gif/icon/Diamond and Pearl.png",
+      "sha256": "d4aa892705040e1994c23963e91d2a70bb53b37e8df32bfc74d730ced094b5fa",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        169,
+        2927,
+        2916
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-041",
+      "name": "Double Crisis",
+      "path": "assets/icons/gif/icon/Double Crisis.png",
+      "sha256": "d6c8a03c6026a5379be6b0a148f60e4e7b53ce5b9079477de777bad4ce6d6ac7",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        162,
+        60,
+        2832,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-042",
+      "name": "Dragon Frontiers",
+      "path": "assets/icons/gif/icon/Dragon Frontiers.png",
+      "sha256": "bd9e23557f722479c4197e916fb4f0a9cd1b6073a9e75a81925e447b994be46c",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-043",
+      "name": "Dragon Majesty",
+      "path": "assets/icons/gif/icon/Dragon Majesty.png",
+      "sha256": "354b5d5be4c8165de488081b2b354ac583317fe07987b55424c29ee99742372e",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        159,
+        2935,
+        2837
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-044",
+      "name": "Dragon Vault",
+      "path": "assets/icons/gif/icon/Dragon Vault.png",
+      "sha256": "71645e025d8bdea5dc96db1e2f833cfadbffae94e6d55dd1d3224844e94f6c41",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        134,
+        180,
+        2865,
+        2820
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-045",
+      "name": "Dragon",
+      "path": "assets/icons/gif/icon/Dragon.png",
+      "sha256": "6c47d285638f5ac5ae8254d4d009834079751fa6869180e660c414637292ec60",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        0,
+        0,
+        3000,
+        3000
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-046",
+      "name": "Dragons Exalted",
+      "path": "assets/icons/gif/icon/Dragons Exalted.png",
+      "sha256": "e2ce09c536f304842a6b8ba0795c59ef93fd81ff2d988b37fcb4f4079fd5b7b8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        83,
+        60,
+        2912,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-047",
+      "name": "Emerald",
+      "path": "assets/icons/gif/icon/Emerald.png",
+      "sha256": "572d17cdd6e3a24282873ff07411208848a15e202724666ddb02e1bf53d17dc5",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        407,
+        2940,
+        2589
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-048",
+      "name": "Emerging Powers",
+      "path": "assets/icons/gif/icon/Emerging Powers.png",
+      "sha256": "429e7120b62ff49167bfa6b762afe023e107647c476b32e96418f8d8f51e485e",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-049",
+      "name": "Evolving Skies",
+      "path": "assets/icons/gif/icon/Evolving Skies.png",
+      "sha256": "bd962a16d78239d21189d5a2bbcf6e5a03b1d493698c5c9676fd09f4dd0f86d9",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        675,
+        59,
+        2323,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-050",
+      "name": "Expedition",
+      "path": "assets/icons/gif/icon/Expedition.png",
+      "sha256": "f005b93036ec67a0e69e3b1fbcf1dcc0b038d7a88deffc04c7b8f9794d3c2bd8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        135,
+        135,
+        2865,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-051",
+      "name": "FireRed LeafGreen",
+      "path": "assets/icons/gif/icon/FireRed LeafGreen.png",
+      "sha256": "adf7cded0c3db9fd8ac0f7be7e8d8319444c52c2e2270dd28ed09ae25f553d04",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-052",
+      "name": "Forbidden Light",
+      "path": "assets/icons/gif/icon/Forbidden Light.png",
+      "sha256": "a704ae5c35537217349e31912e06710b780c4ecd85ae702574fc050cf7059989",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        64,
+        0,
+        2938,
+        3000
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-053",
+      "name": "Fossil",
+      "path": "assets/icons/gif/icon/Fossil.png",
+      "sha256": "8ff12bb27fb3c92f5de2d50456b60e5d82263897d930dc96d7f814aa349c281e",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        414,
+        2940,
+        2573
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-054",
+      "name": "Furious Fists",
+      "path": "assets/icons/gif/icon/Furious Fists.png",
+      "sha256": "c62ff3b7ed4a13b119da34b76c1310eeddbe962fa299784fc979a8eca9cd8ecd",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        244,
+        135,
+        2756,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-055",
+      "name": "Fusion Strike",
+      "path": "assets/icons/gif/icon/Fusion Strike.png",
+      "sha256": "e225bfc231cc39a6410f7432382a5ddac7badaa1d1d0deb25f9dc22bbc9d2738",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        12,
+        2940,
+        2988
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-056",
+      "name": "Fustal Promos",
+      "path": "assets/icons/gif/icon/Fustal Promos.png",
+      "sha256": "7ffc0e62ff5b0613f0e63090dfe6f3e8cdc81661335963b05b37c5b439d8dc8c",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        232,
+        2937,
+        2768
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-057",
+      "name": "Great Encounters",
+      "path": "assets/icons/gif/icon/Great Encounters.png",
+      "sha256": "7f7a976de8d09c74c33d40646c6e5ea987e818d2ea6b8b7afdd7eee0b4251c2f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        235,
+        2928,
+        2763
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-058",
+      "name": "Guardians Rising",
+      "path": "assets/icons/gif/icon/Guardians Rising.png",
+      "sha256": "3da2fee922f72c27c5f53c49a5d3ac399d80dee94526db914f50cc7054ba976d",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        539,
+        64,
+        2458,
+        2937
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-059",
+      "name": "Gym Challenge",
+      "path": "assets/icons/gif/icon/Gym Challenge.png",
+      "sha256": "1dd8590bfde940794098d456ce9b9e85eeee59be9ae976dc89fc31aa7de896cf",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        594,
+        2939,
+        2392
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-060",
+      "name": "Gym Heroes",
+      "path": "assets/icons/gif/icon/Gym Heroes.png",
+      "sha256": "7f6a51e8ad6f494e4159b547648d548d5f64fca105bf3b34f03f911f0b770b65",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        612,
+        2929,
+        2380
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-061",
+      "name": "HeartGold SoulSilver",
+      "path": "assets/icons/gif/icon/HeartGold SoulSilver.png",
+      "sha256": "ea39d0589351b5fc00730c82937f4e73962a8d03d5132dc9a30b579c718cb899",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        95,
+        59,
+        2897,
+        2930
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-062",
+      "name": "Hidden Fates",
+      "path": "assets/icons/gif/icon/Hidden Fates.png",
+      "sha256": "378f8e409db162e8ad08823462a23686ef0590f1772a460f003a6d0290f91660",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        66,
+        2938,
+        2928
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-063",
+      "name": "Hidden Legends",
+      "path": "assets/icons/gif/icon/Hidden Legends.png",
+      "sha256": "0415e9612a8d345dc1eecc7ed5a2e54c6b5d2826dbc79c96e42cdaa83882b0ce",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        197,
+        2940,
+        2803
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-064",
+      "name": "Holon Phantoms",
+      "path": "assets/icons/gif/icon/Holon Phantoms.png",
+      "sha256": "6e0e84644f06ef5c2288642d465904df05276043b9c69158189ff3be4c15d045",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        0,
+        138,
+        2995,
+        2855
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-065",
+      "name": "Journey Together",
+      "path": "assets/icons/gif/icon/Journey Together.png",
+      "sha256": "d8177d286dc24eacd2bba4a23484c27d41dbbcf1da14503b1206142b22c53bb5",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-066",
+      "name": "Jungle",
+      "path": "assets/icons/gif/icon/Jungle.png",
+      "sha256": "58815fb2ae2cb5ea894db1e08e709c267ff6572cad9552de7467fc89f27477cc",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        577,
+        2938,
+        2423
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-067",
+      "name": "Kalos Starter Set",
+      "path": "assets/icons/gif/icon/Kalos Starter Set.png",
+      "sha256": "66921b46a0a921d0c6380d521ccf5b3760ee3c90d24dd0bf545e516a2e75dfc6",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        149,
+        2941,
+        2851
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-068",
+      "name": "Legend Maker",
+      "path": "assets/icons/gif/icon/Legend Maker.png",
+      "sha256": "dcf5735ccf8da1e385cf54b3899fa10c981d082c7da6bfdd55823c08eb51977f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        157,
+        67,
+        2843,
+        2933
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-069",
+      "name": "Legendary Collection",
+      "path": "assets/icons/gif/icon/Legendary Collection.png",
+      "sha256": "f3091c82e19e6dcf4464881145e64634f796e9dc55c028babd14c152369fd1af",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        613,
+        60,
+        2387,
+        2926
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-070",
+      "name": "Legendary Treasures",
+      "path": "assets/icons/gif/icon/Legendary Treasures.png",
+      "sha256": "4891b95e3a8a11ac283dd2a1404938d023991cf451fde1cf030da5de8c94ebfd",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        122,
+        2941,
+        2869
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-071",
+      "name": "Legends Awakened",
+      "path": "assets/icons/gif/icon/Legends Awakened.png",
+      "sha256": "948d573df30d5edaa9befb2eeff2318efd87d2cdb94df4b86bf4ceaf7241a6f8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        227,
+        2921,
+        2748
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-072",
+      "name": "Lost Origin",
+      "path": "assets/icons/gif/icon/Lost Origin.png",
+      "sha256": "c09f0607f1b86f5e868b8577c397cc91db8669f1fbb038a101d71281ab80cf49",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        90,
+        2940,
+        2910
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-073",
+      "name": "Lost Thunder",
+      "path": "assets/icons/gif/icon/Lost Thunder.png",
+      "sha256": "bcc0aed6cb7885f4bbd7a568c82038f2d60dce68c1ddc15c8ae269c63adec5b5",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        102,
+        60,
+        2888,
+        2928
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-074",
+      "name": "Majestic Dawn",
+      "path": "assets/icons/gif/icon/Majestic Dawn.png",
+      "sha256": "f9bbeaa4ae36f13f9655bff848f77b0a67d9640d7f454e933edf2d3941b41975",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-075",
+      "name": "McDonald_s Collection 2011",
+      "path": "assets/icons/gif/icon/McDonald_s Collection 2011.png",
+      "sha256": "6b063693dfe74538118035a4651bb387e6a7b4b5f04b21fcbab78f0224b9d1d1",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        231,
+        2933,
+        2763
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-076",
+      "name": "McDonald_s Collection 2012",
+      "path": "assets/icons/gif/icon/McDonald_s Collection 2012.png",
+      "sha256": "e6344f8653ae7315680da2bebf6d1e797cde8de1199d6184ac1358f4438a995c",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        142,
+        142,
+        2858,
+        2858
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-077",
+      "name": "McDonald_s Collection 2013",
+      "path": "assets/icons/gif/icon/McDonald_s Collection 2013.png",
+      "sha256": "1d568d80833af750dff4001c18748a82293cd5a0433d1c63229fa9dd8daed983",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        244,
+        73,
+        2760,
+        2926
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-078",
+      "name": "McDonald_s Collection 2014",
+      "path": "assets/icons/gif/icon/McDonald_s Collection 2014.png",
+      "sha256": "0b31907d072be68bf0fc16cb25b9593a15865e83f5b1cca353bf381cbffd0c31",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        135,
+        150,
+        2865,
+        2850
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-079",
+      "name": "McDonald_s Collection 2015",
+      "path": "assets/icons/gif/icon/McDonald_s Collection 2015.png",
+      "sha256": "b4af2cc42c6d6fc75ebe611433acdf5c688201c0a754cc91ba7100a0e5041b6e",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        141,
+        135,
+        2859,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-080",
+      "name": "McDonald_s Collection 2016",
+      "path": "assets/icons/gif/icon/McDonald_s Collection 2016.png",
+      "sha256": "b3698ef800ceaa86dc0b6c7f02faffe521af6eb38f485edddef24a72e93582ee",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        159,
+        2940,
+        2841
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-081",
+      "name": "McDonald_s Collection 2017",
+      "path": "assets/icons/gif/icon/McDonald_s Collection 2017.png",
+      "sha256": "cede89cc2fe54629d4fef8129ba36a5c9d582a99dc27de5bebeb6627d43dec08",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        267,
+        2940,
+        2731
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-082",
+      "name": "McDonald_s Dragon Discovery",
+      "path": "assets/icons/gif/icon/McDonald_s Dragon Discovery.png",
+      "sha256": "5c0f6799654ce1d4a5bd9f03c25dca4664e1d78848fd4489eb85a85d05f05036",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-083",
+      "name": "McDonald_s Match Battle 2022",
+      "path": "assets/icons/gif/icon/McDonald_s Match Battle 2022.png",
+      "sha256": "9b36d6d067c160c2beb4965d60e95da78b8eb1604155b2ddf87f1954b3583f88",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        255,
+        2940,
+        2745
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-084",
+      "name": "McDonald_s Match Battle 2023",
+      "path": "assets/icons/gif/icon/McDonald_s Match Battle 2023.png",
+      "sha256": "f2b3791666c0858c6ec35c411b42b614ef96d472dfff80a592bd8131a9a5eb09",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-085",
+      "name": "Mega Evolution Promos",
+      "path": "assets/icons/gif/icon/Mega Evolution Promos.png",
+      "sha256": "222ec5ef4f225442d53c78bd66284023c192377a1e83623ceb2547313f50d99d",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-086",
+      "name": "Mega Evolution",
+      "path": "assets/icons/gif/icon/Mega Evolution.png",
+      "sha256": "f7e7c12d0387c7083f3eb482a9a62e122f9a79a0d4c14a096b8e5bf7d899c830",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-087",
+      "name": "Mysterious Treasures",
+      "path": "assets/icons/gif/icon/Mysterious Treasures.png",
+      "sha256": "237bab01fe0d1437a24f3acfc420a1925f7242715438e56731a317667355e566",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2941,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-088",
+      "name": "Neo Destiny",
+      "path": "assets/icons/gif/icon/Neo Destiny.png",
+      "sha256": "6563ccdb418e631d4e43749914a6a0319a2e92f7c0b6922aeede44139e3125af",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        225,
+        629,
+        2775,
+        2365
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-089",
+      "name": "Neo Discovery",
+      "path": "assets/icons/gif/icon/Neo Discovery.png",
+      "sha256": "97a38700e60940c65423ff7d8f114fe6830768ca712380b7538986659a3b4f92",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        135,
+        481,
+        2865,
+        2519
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-090",
+      "name": "Neo Genesis",
+      "path": "assets/icons/gif/icon/Neo Genesis.png",
+      "sha256": "3945bb9da778c536b9d2350fb635d27dd2331a3806ed6b310c7decbf4b71d80f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        182,
+        413,
+        2741,
+        2615
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-091",
+      "name": "Neo Revelation",
+      "path": "assets/icons/gif/icon/Neo Revelation.png",
+      "sha256": "9614cb05d4fa6bb9c3eef433604645de970b29371f3bafb87a3014023af5a83a",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        39,
+        451,
+        2961,
+        2497
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-092",
+      "name": "Next Destinies",
+      "path": "assets/icons/gif/icon/Next Destinies.png",
+      "sha256": "eeb029484ea35ba666d910d6c07f72032d6f8774ac1a22c4aed3ff1c05dd8d84",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        362,
+        2927,
+        2636
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-093",
+      "name": "Noble Victories",
+      "path": "assets/icons/gif/icon/Noble Victories.png",
+      "sha256": "09462666434f65dc0a481832acc38d61f562d984d6c4bb0f1471f28e3c9a0a59",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        305,
+        134,
+        2695,
+        2866
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-094",
+      "name": "Obsidian Flames",
+      "path": "assets/icons/gif/icon/Obsidian Flames.png",
+      "sha256": "50bb6e9862bd2553ba34b30b5e011ee40e69f7c55d5e68f506b0450a807324b3",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-095",
+      "name": "Paldea Evolved",
+      "path": "assets/icons/gif/icon/Paldea Evolved.png",
+      "sha256": "894d603e44790144da4f3eacafe7bd8cd5afe7c29a84198353570e038412472b",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-096",
+      "name": "Paldean Fates",
+      "path": "assets/icons/gif/icon/Paldean Fates.png",
+      "sha256": "fa4c01ca14d9846749210a738ae219683fa9fa4cb2103b614cb80409f522731f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-097",
+      "name": "Paradox Rift",
+      "path": "assets/icons/gif/icon/Paradox Rift.png",
+      "sha256": "f016a068626c8652f786ad9316785ce9cb9867e5bb1126c7aa644ef80f2026d7",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-098",
+      "name": "Perfect Order",
+      "path": "assets/icons/gif/icon/Perfect Order.png",
+      "sha256": "1964290c1e61795468b778a4060eacb30ff03cc38d10c6b9701c211abcf833fe",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-099",
+      "name": "Phantasmal Flames",
+      "path": "assets/icons/gif/icon/Phantasmal Flames.png",
+      "sha256": "33a6bbd15ba6a36df01fc90a38124a77d3c905f14ae005e8030cdce5c576c1b8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-100",
+      "name": "Phantom Forces",
+      "path": "assets/icons/gif/icon/Phantom Forces.png",
+      "sha256": "a013d1f8b9651b941d6c0949236d1d8c986b4a91171824b736e36aa443c77fcb",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        165,
+        60,
+        2831,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-101",
+      "name": "Pikachu World Collection",
+      "path": "assets/icons/gif/icon/Pikachu World Collection.png",
+      "sha256": "d01767e7304b150240c6bd7c33c50010bf458f47cce5572d5b7d6484f8dd965b",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        547,
+        278,
+        2434,
+        2752
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-102",
+      "name": "Plasma Blast",
+      "path": "assets/icons/gif/icon/Plasma Blast.png",
+      "sha256": "77ff3dd9956c818f46e886393e5a43ab6c63d3706996c3f05535a5c31c8c52e3",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        94,
+        60,
+        2911,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-103",
+      "name": "Plasma Freeze",
+      "path": "assets/icons/gif/icon/Plasma Freeze.png",
+      "sha256": "6732dab4dbf8e41a57381d4ed98f41122f33a43136adf150c30b2f4de2edb407",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        232,
+        60,
+        2768,
+        2937
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-104",
+      "name": "Plasma Storm",
+      "path": "assets/icons/gif/icon/Plasma Storm.png",
+      "sha256": "f74a024d2c99001d18c891798d79e21b1982a938a8bc66e32d8ee6f818447a25",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        215,
+        60,
+        2797,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-105",
+      "name": "Platinum",
+      "path": "assets/icons/gif/icon/Platinum.png",
+      "sha256": "20e62da6c653bb1895e3e114ac14c4bde48a89ee6ae3efc27854d3e07afe9703",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        224,
+        2940,
+        2771
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-106",
+      "name": "Pokemon Go",
+      "path": "assets/icons/gif/icon/Pokemon Go.png",
+      "sha256": "aae65b80f94c290b2b138ef414e60f481811697335d4d303332c919304340397",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-107",
+      "name": "Pokemon Rumble",
+      "path": "assets/icons/gif/icon/Pokemon Rumble.png",
+      "sha256": "4e81d6f9436ca98ae17506efa6dc6da33ee426780b1e0830b6c40415c5bb50ed",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        92,
+        2937,
+        2906
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-108",
+      "name": "Pop 1",
+      "path": "assets/icons/gif/icon/Pop 1.png",
+      "sha256": "622b8fb0c23d2be9234174e2f00a483f99648c3e872f104ec6e71c48fb023981",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        212,
+        660,
+        2788,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-109",
+      "name": "Pop 2",
+      "path": "assets/icons/gif/icon/Pop 2.png",
+      "sha256": "63be3572948cd7d3c12ac3c025bad0c59396d960f155c6a9851af6a39e821e58",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        173,
+        660,
+        2827,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-110",
+      "name": "Pop 3",
+      "path": "assets/icons/gif/icon/Pop 3.png",
+      "sha256": "9858839dc86871c40830dd2c1395da6fd90330238bd35731b049628a3eccfca2",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        151,
+        660,
+        2849,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-111",
+      "name": "Pop 4",
+      "path": "assets/icons/gif/icon/Pop 4.png",
+      "sha256": "049f23638d9f66f88669fc9b2c70194e317f97bb1c29ef4f04a0c98bad1026ee",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        91,
+        660,
+        2909,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-112",
+      "name": "Pop 5",
+      "path": "assets/icons/gif/icon/Pop 5.png",
+      "sha256": "32fc2130193ba4b4753ae3c886ea713084204e305040e4ef46f4b40c89b9fcc8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        181,
+        660,
+        2819,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-113",
+      "name": "Pop 6",
+      "path": "assets/icons/gif/icon/Pop 6.png",
+      "sha256": "dace57c4892e1659cee563a5c552f644f4ec6080747031ccb02eb2630a96eef8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        109,
+        660,
+        2891,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-114",
+      "name": "Pop 7",
+      "path": "assets/icons/gif/icon/Pop 7.png",
+      "sha256": "bc19d4ebbebe8439f9f7c0dcef47f26d6a7935dd6758b88b18289b240389bea1",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        150,
+        660,
+        2850,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-115",
+      "name": "Pop 8",
+      "path": "assets/icons/gif/icon/Pop 8.png",
+      "sha256": "bb16aab4af0589bf8cb8b465ba214592c9aadf2b29d248dc525f263833bd4232",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        114,
+        660,
+        2886,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-116",
+      "name": "Pop 9",
+      "path": "assets/icons/gif/icon/Pop 9.png",
+      "sha256": "bc1ff8b4a7293d6c13542e5d4aa3313471e614e2cfdeca1bc8230f57c9bee4dd",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        117,
+        660,
+        2883,
+        2340
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-117",
+      "name": "Power Keepers",
+      "path": "assets/icons/gif/icon/Power Keepers.png",
+      "sha256": "8c9ce60124d7e20731ba3783abe23e6732097474a95535cf4562170cadbed043",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        135,
+        135,
+        2865,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-118",
+      "name": "Primal Clash",
+      "path": "assets/icons/gif/icon/Primal Clash.png",
+      "sha256": "4a2ad6ee1e965af9d3cb32b642a4ce5cca1e2adfa70074e351f712761e9cf616",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        67,
+        2940,
+        2931
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-119",
+      "name": "Prismatic Evolutions",
+      "path": "assets/icons/gif/icon/Prismatic Evolutions.png",
+      "sha256": "f07daf5634a43d2fc10b287a66d5ac4c8c9428f19119b775b530af4b1f74890d",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-120",
+      "name": "Rebel Clash",
+      "path": "assets/icons/gif/icon/Rebel Clash.png",
+      "sha256": "65f010f028883682c4df44c1d81c92d0ea90c1fec82fbc0fa1ddcf858496e3c3",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        116,
+        59,
+        2871,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-121",
+      "name": "Rising Rivals",
+      "path": "assets/icons/gif/icon/Rising Rivals.png",
+      "sha256": "56813462772dadafe364928f74b6e018be6df98d7ff66f8f2b654e6093fd4016",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        135,
+        135,
+        2865,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-122",
+      "name": "Roaring Skies",
+      "path": "assets/icons/gif/icon/Roaring Skies.png",
+      "sha256": "b73aadc76f631a41c8c30ff9d04825c7675aa6b3c6884cb6765aabb37432b9f8",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        0,
+        291,
+        3000,
+        2709
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-123",
+      "name": "Ruby & Sapphire",
+      "path": "assets/icons/gif/icon/Ruby & Sapphire.png",
+      "sha256": "18e26260b99ad3eefd5b545ba2f2764a53008d46b60553376b1111722ebd0558",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        135,
+        135,
+        2865,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-124",
+      "name": "S&M McDonald_s Collection 2018",
+      "path": "assets/icons/gif/icon/S&M McDonald_s Collection 2018.png",
+      "sha256": "705fbb493c074f5d0dbe326cf0861477122664f66c3579502a1f8986252f2335",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        210,
+        60,
+        2790,
+        2937
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-125",
+      "name": "S&M McDonald_s Collection 2019",
+      "path": "assets/icons/gif/icon/S&M McDonald_s Collection 2019.png",
+      "sha256": "599717468b9cd2bfaacbb159298f877b9b8701da9bb7f7cf797c6a25c99cc029",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        73,
+        2940,
+        2927
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-126",
+      "name": "S&S McDonald_s Collection 25th Anniversary",
+      "path": "assets/icons/gif/icon/S&S McDonald_s Collection 25th Anniversary.png",
+      "sha256": "59e28691e33986e035aef367954962e5ac9d4ee72e7bb7e9025e2a9f2fc15e19",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        525,
+        2934,
+        2486
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-127",
+      "name": "Sandstorm",
+      "path": "assets/icons/gif/icon/Sandstorm.png",
+      "sha256": "3c098d5581f8af3fb5d3cf6075f633fc1570c2e7912a11875b5df200b129fa19",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2931
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-128",
+      "name": "Scarlet & Violet Promos",
+      "path": "assets/icons/gif/icon/Scarlet & Violet Promos.png",
+      "sha256": "5c14b5266aa691bfa560dd88005e68d30f74b4849cce6743490240633280e117",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-129",
+      "name": "Scarlet & Violet",
+      "path": "assets/icons/gif/icon/Scarlet & Violet.png",
+      "sha256": "7c10505b08452e9ef757bef472276ab3f595c19eeae6536698b2fdde05434833",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-130",
+      "name": "Secret Wonders",
+      "path": "assets/icons/gif/icon/Secret Wonders.png",
+      "sha256": "c926e415ace74e6ef2c38d755ce35b7f0edaa5bd71af8b246847ad1140c03f7f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-131",
+      "name": "Shining Fates",
+      "path": "assets/icons/gif/icon/Shining Fates.png",
+      "sha256": "787e4f7bea7c0abbcf6354e8557f97cb23b90973083a4487eabc32d764638102",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        131,
+        131,
+        2869,
+        2869
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-132",
+      "name": "Shining Legends",
+      "path": "assets/icons/gif/icon/Shining Legends.png",
+      "sha256": "55823a9a09a194802ef35a4715f01e63b51e339aef9cde3e89e7dc82a81e6419",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        214,
+        2940,
+        2846
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-133",
+      "name": "Shrouded Fable",
+      "path": "assets/icons/gif/icon/Shrouded Fable.png",
+      "sha256": "97857d1c1180a4130952066a65235397ffc5c2d7c6018e82fa8b03daf282bff2",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-134",
+      "name": "Silver Tempest",
+      "path": "assets/icons/gif/icon/Silver Tempest.png",
+      "sha256": "035e17128e9052c0138cf3d33980ece37e55122f212dbc08ff526d2176ae74e2",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-135",
+      "name": "Skyridge",
+      "path": "assets/icons/gif/icon/Skyridge.png",
+      "sha256": "c080d99f74c913d5c1e0e68340851f8d2578425bc1177b76aee896e57b9f4491",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        352,
+        2919,
+        2638
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-136",
+      "name": "Southern Isles",
+      "path": "assets/icons/gif/icon/Southern Isles.png",
+      "sha256": "d4b9f28272f7e74f5f349d55b3cfe9ba975e18eee1ffa652860dea48f77d2a42",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        119,
+        393,
+        2881,
+        2607
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-137",
+      "name": "Stellar Crown",
+      "path": "assets/icons/gif/icon/Stellar Crown.png",
+      "sha256": "c7eaf96d9887853dcd25da6060171cc4ab4c77aa2e399c3907031972b76c8185",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-138",
+      "name": "Stormfront",
+      "path": "assets/icons/gif/icon/Stormfront.png",
+      "sha256": "41cf3771a7a7e637ba6fe510152beff78b3ba871a6e776fd670880bff00fbf71",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-139",
+      "name": "Sun & Moon",
+      "path": "assets/icons/gif/icon/Sun & Moon.png",
+      "sha256": "3e6b74939b5fec1806678e6579981f08696fd9dd8b08d1dca21c5f45c1757534",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        101,
+        60,
+        2896,
+        2927
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-140",
+      "name": "Supreme Victors",
+      "path": "assets/icons/gif/icon/Supreme Victors.png",
+      "sha256": "8ea9b7be7dceae8c5709aba83ce6ab92e03b7ffbed83dd2a0f59c308b311b08b",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        151,
+        60,
+        2837,
+        2936
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-141",
+      "name": "Surging Sparks",
+      "path": "assets/icons/gif/icon/Surging Sparks.png",
+      "sha256": "8ba2730f45a4eaaac94ee89cf5692cb3d07b17cc4e38cca7e0fc3b89abffdef4",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-142",
+      "name": "Sword & Shield",
+      "path": "assets/icons/gif/icon/Sword & Shield.png",
+      "sha256": "2ccca9a01e0f5e12abb3f215bdb36c81d5d01b834cb1df802dc9147bb4729b33",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        637,
+        2941,
+        2508
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-143",
+      "name": "Team Magma vs. Team Aqua",
+      "path": "assets/icons/gif/icon/Team Magma vs. Team Aqua.png",
+      "sha256": "9d5cf6dccbbeee3ae1ded7f038d2d24ade5964e179e6a46ed810a26660c7af09",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        129,
+        58,
+        2859,
+        2942
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-144",
+      "name": "Team Rocket Returns",
+      "path": "assets/icons/gif/icon/Team Rocket Returns.png",
+      "sha256": "4c0f4b49fed5342a35da29d5e6e36aeff327cd05acc225c77eb920c4bfc872a6",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        224,
+        71,
+        2774,
+        2930
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-145",
+      "name": "Team Rocket",
+      "path": "assets/icons/gif/icon/Team Rocket.png",
+      "sha256": "0c724da8c937ef0084bede65449e0210747a6adcded3be3f6c53448fef9e48d3",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        338,
+        2933,
+        2647
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-146",
+      "name": "Team Up",
+      "path": "assets/icons/gif/icon/Team Up.png",
+      "sha256": "cd0bb8a4c6c1b447ece29231fd08de2b24c5bfbe83e7170f84b5428bd0f131a3",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        0,
+        75,
+        3000,
+        2922
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-147",
+      "name": "Temporal Forces",
+      "path": "assets/icons/gif/icon/Temporal Forces.png",
+      "sha256": "f8c3856de57f0aed84658307578cdce7ec868c9b9a176fbe5a823440e59d12dd",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-148",
+      "name": "Triumphant",
+      "path": "assets/icons/gif/icon/Triumphant.png",
+      "sha256": "85b3dd853fb7c46036d4d057f5bf4b8e86542b5cb12713ed3e75d7ad98f0247b",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2940,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-149",
+      "name": "Twilight Masquerade",
+      "path": "assets/icons/gif/icon/Twilight Masquerade.png",
+      "sha256": "93f54d4e6dfb105c8e7d6eedda08dfffbf444c532c1291913b6d0bfa05b41829",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        45,
+        750,
+        2955,
+        2265
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-150",
+      "name": "Ultra Prism",
+      "path": "assets/icons/gif/icon/Ultra Prism.png",
+      "sha256": "f24f55665b5c1dbc4cfbc36915afba8657cf6917b5c7a06b1db627391c82f032",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        0,
+        207,
+        3000,
+        2793
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-151",
+      "name": "Unbroken Bonds",
+      "path": "assets/icons/gif/icon/Unbroken Bonds.png",
+      "sha256": "8f35ef851291aaf80d8d5b72a967a9a8b3f3be079265a470a6dd531005b0e590",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2934,
+        2942
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-152",
+      "name": "Undaunted",
+      "path": "assets/icons/gif/icon/Undaunted.png",
+      "sha256": "0101671a701667c5daae192dd0786d1e574fbc82bcb4a00782dfe8b9c73d9f4c",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        197,
+        134,
+        2803,
+        2865
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-153",
+      "name": "Unified Minds",
+      "path": "assets/icons/gif/icon/Unified Minds.png",
+      "sha256": "556532da8b6e4cc70f23767725328642e671c58cd6a978d3b2d925baddbd7ae7",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        215,
+        2927,
+        2776
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-154",
+      "name": "Unleashed",
+      "path": "assets/icons/gif/icon/Unleashed.png",
+      "sha256": "5e85255d53520b7e389062b9658ee03f31931029cd24eecc7d39edb28b865e25",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        60,
+        2941,
+        2927
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-155",
+      "name": "Unseen Forces",
+      "path": "assets/icons/gif/icon/Unseen Forces.png",
+      "sha256": "5c257049321556e9247cddf624284e3cca51c257dd7400f82f149a60cddd139f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        217,
+        2941,
+        2783
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-156",
+      "name": "Vivid Voltage",
+      "path": "assets/icons/gif/icon/Vivid Voltage.png",
+      "sha256": "ef44183a79031be5712c8eec5bcbe1d3a8d8ae7077932667c3f6c0118d82f63f",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        229,
+        2941,
+        2767
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-157",
+      "name": "White Flare",
+      "path": "assets/icons/gif/icon/White Flare.png",
+      "sha256": "4a6a63b6d869f7188f3f6bc2f679a4ca78cc5444f3748b9207d63bb709f5adb5",
+      "width": 300,
+      "height": 300,
+      "alpha_bounds": [
+        4,
+        75,
+        296,
+        227
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-158",
+      "name": "XY Evolutions",
+      "path": "assets/icons/gif/icon/XY Evolutions.png",
+      "sha256": "07d3071ca3e59118ead08f7b36d43f3a63e1a66c808b99b83b4b1b0c824979d5",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        475,
+        2932,
+        2525
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-159",
+      "name": "XY Fates Collide",
+      "path": "assets/icons/gif/icon/XY Fates Collide.png",
+      "sha256": "319a695dfeb0be4c68f10a54267085e878a2ebea254442338839ee43f6347dda",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        92,
+        60,
+        2908,
+        2940
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-160",
+      "name": "XY Flashfire",
+      "path": "assets/icons/gif/icon/XY Flashfire.png",
+      "sha256": "9aa8a269fd641006171c30c82619d59e8039b142cf72a9b783e75d01ed5c85c3",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        350,
+        60,
+        2643,
+        2941
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-161",
+      "name": "XY Generations",
+      "path": "assets/icons/gif/icon/XY Generations.png",
+      "sha256": "e6385e42c2d40fa37ba38aa9bc25cf2d3ecb1c23e279a875bd79429b53d0ee45",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        232,
+        2937,
+        2768
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-162",
+      "name": "XY Steam Siege",
+      "path": "assets/icons/gif/icon/XY Steam Siege.png",
+      "sha256": "9b73d60ac6c17fbb9861070ac5b7441bbec8f4d7c3e80088023080af65409bb7",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        128,
+        2940,
+        2872
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-163",
+      "name": "XY",
+      "path": "assets/icons/gif/icon/XY.png",
+      "sha256": "b835e3597a753598abc32422ee55e62d0fa55b5ae1c67eb860535a033abfdded",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        164,
+        2926,
+        2833
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-164",
+      "name": "_1st Edition",
+      "path": "assets/icons/gif/icon/_1st Edition.png",
+      "sha256": "55d160b27d5ba71f049db96ca5ca5c32b67841595a81d57e000a356d1e145f96",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        59,
+        378,
+        2939,
+        2609
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-165",
+      "name": "_Box Topper",
+      "path": "assets/icons/gif/icon/_Box Topper.png",
+      "sha256": "e6a92883a6037a34dd76baf2731d05a50020edb74e2ed1268d6eb837ef23b2a5",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        180,
+        165,
+        2820,
+        2850
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-166",
+      "name": "_Promo",
+      "path": "assets/icons/gif/icon/_Promo.png",
+      "sha256": "45db4d899f7d38cc6df6432fe60e16a3460a673a73f43aee66e3febaafe3c46a",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        72,
+        155,
+        2935,
+        2850
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-167",
+      "name": "_Special",
+      "path": "assets/icons/gif/icon/_Special.png",
+      "sha256": "3cb253ad39bdb3edffd23d065766483ed9ca191e3fa1f44b22ceb44abf68041b",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        150,
+        183,
+        2850,
+        2766
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-168",
+      "name": "_Trick or Trade",
+      "path": "assets/icons/gif/icon/_Trick or Trade.png",
+      "sha256": "f8811e9d831a232b828e966c10f7c1684fbf18f1c1dc3de675b1a417988db52a",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        48,
+        187,
+        2952,
+        2813
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-169",
+      "name": "Layer 3 copy",
+      "path": "assets/icons/gif/Layer 3 copy.png",
+      "sha256": "4fcfbce16c2d903f43e472eea5648c633b3cb50613749e60ab707726a173df84",
+      "width": 32,
+      "height": 31,
+      "alpha_bounds": [
+        0,
+        0,
+        32,
+        31
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-170",
+      "name": "Layer 33 copy",
+      "path": "assets/icons/gif/Layer 33 copy.png",
+      "sha256": "f8897cfb9ed32f288451fd0d4427f920c953700415fe88bb5918285bcf714dd2",
+      "width": 42,
+      "height": 39,
+      "alpha_bounds": [
+        0,
+        0,
+        42,
+        39
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-171",
+      "name": "lef",
+      "path": "assets/icons/gif/lef.png",
+      "sha256": "542563c3c08b99e0fd258dd82469201a1423fa5984a5257dbe2a4cd5599b87cb",
+      "width": 162,
+      "height": 162,
+      "alpha_bounds": [
+        0,
+        0,
+        162,
+        162
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-172",
+      "name": "silver-star",
+      "path": "assets/icons/gif/silver-star.png",
+      "sha256": "f19530a2c1ecb30f07373dc5e5e6d9b743c1adb5cfc8f636a0ca02d08a507c09",
+      "width": 133,
+      "height": 146,
+      "alpha_bounds": [
+        9,
+        23,
+        124,
+        132
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-173",
+      "name": "Unbroken Bonds",
+      "path": "assets/icons/gif/Unbroken Bonds.png",
+      "sha256": "8f35ef851291aaf80d8d5b72a967a9a8b3f3be079265a470a6dd531005b0e590",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        60,
+        60,
+        2934,
+        2942
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-174",
+      "name": "_1st Edition copy",
+      "path": "assets/icons/gif/_1st Edition copy.png",
+      "sha256": "fd6cae45c3ab12080051d7693092035399164a341a15394da042f41d79a9817e",
+      "width": 905,
+      "height": 675,
+      "alpha_bounds": [
+        0,
+        0,
+        905,
+        675
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    },
+    {
+      "id": "icon-175",
+      "name": "_Promo",
+      "path": "assets/icons/gif/_Promo.png",
+      "sha256": "45db4d899f7d38cc6df6432fe60e16a3460a673a73f43aee66e3febaafe3c46a",
+      "width": 3000,
+      "height": 3000,
+      "alpha_bounds": [
+        72,
+        155,
+        2935,
+        2850
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "category": "unclassified",
+      "status": "unverified",
+      "variant": null,
+      "evidence": []
+    }
+  ]
+}

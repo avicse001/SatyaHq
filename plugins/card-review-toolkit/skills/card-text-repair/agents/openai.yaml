@@ -1,0 +1,4 @@
+interface:
+  display_name: "Card Text Repair"
+  short_description: "Repair card text while preserving nearby pixels"
+  default_prompt: "Use $card-text-repair to fix the specified lettering with Python while preserving the surrounding colors and texture."

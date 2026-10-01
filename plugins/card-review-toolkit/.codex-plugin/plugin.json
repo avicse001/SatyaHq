@@ -1,0 +1,27 @@
+{
+  "name": "card-review-toolkit",
+  "version": "2.0.0",
+  "description": "SatyaHQ: Two-image card comparison engine plus card-proofreader, card-text-repair, and card-symbol-repair. Provides pixel-level diff analysis, perceptual metrics, text/numeric audit, and structured PASS/FAIL/NEEDS_REVIEW verdicts.",
+  "author": {
+    "name": "raakshassh"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Card Review Toolkit",
+    "shortDescription": "Proofread cards and repair text and symbols.",
+    "longDescription": "SatyaHQ v2.0.0 extends Card Review Toolkit v1.5.2 with a full-image comparison engine: SHA-256 integrity checks, pixel-level difference heatmaps, per-channel analysis, SSIM perceptual scoring, alignment-aware comparison, and classification into PASS/FAIL/NEEDS_REVIEW/NOT_RUN. All existing card-proofreader text/numeric/symbol auditing, card-text-repair, and card-symbol-repair skills are preserved and hardened. New satyahq skill orchestrates the two-image workflow.",
+    "developerName": "raakshassh",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $satyahq to compare my RAW and IMPROVED card images and generate a complete evidence-based comparison report.",
+      "Compare my original and enhanced card and report confirmed errors.",
+      "Repair the approved text errors while preserving the font and background.",
+      "Preview source-matched repairs for the approved card symbols."
+    ]
+  },
+  "repository": "https://github.com/raakshassh/card-review-toolkit"
+}

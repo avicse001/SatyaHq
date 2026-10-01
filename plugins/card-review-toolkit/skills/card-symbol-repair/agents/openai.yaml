@@ -1,0 +1,4 @@
+interface:
+  display_name: "Card Symbol Repair"
+  short_description: "Match and repair card icons with local pixel checks"
+  default_prompt: "Use $card-symbol-repair to prepare source-matched replacements for the confirmed symbol errors, preserving prior edits and showing previews for approval."

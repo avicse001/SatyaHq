@@ -1,0 +1,4 @@
+interface:
+  display_name: "Card Proofreader"
+  short_description: "Compare card text, punctuation, and symbols"
+  default_prompt: "Use $card-proofreader to compare this original and enhanced card. Highlight only confirmed text, punctuation, and printed-symbol differences."

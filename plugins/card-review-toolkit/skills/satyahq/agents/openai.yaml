@@ -1,0 +1,4 @@
+interface:
+  display_name: "SatyaHQ Card Comparison"
+  short_description: "Two-image card comparison with pixel analysis, text/numeric audit, and structured verdict report"
+  default_prompt: "Use $satyahq to compare my original (RAW) and enhanced (IMPROVED) card. Provide a complete evidence-based comparison report with a clear verdict."

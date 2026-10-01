@@ -1,0 +1,22 @@
+{
+  "name": "card-review",
+  "interface": {
+    "displayName": "Card Review Toolkit"
+  },
+  "plugins": [
+    {
+      "name": "card-review-toolkit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/raakshassh/card-review-toolkit.git",
+        "path": "./plugins/card-review-toolkit",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
